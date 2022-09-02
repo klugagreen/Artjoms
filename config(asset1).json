@@ -1,0 +1,54 @@
+{
+  "status": 0,
+  "msg": "SUCCESS",
+  "menuData": [
+    {
+      "title": "body",
+      "value": "body",
+      "src": "./model/stl/asset1/part1.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "foot",
+      "value": "foot",
+      "src": "./model/stl/asset1/part2.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset1/part3.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "eye",
+      "value": "eye",
+      "src": "./model/stl/asset1/part4.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "face",
+      "value": "face",
+      "src": "./model/stl/asset1/part5.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "body",
+      "value": "body",
+      "src": "./model/stl/asset1/part6.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "foot",
+      "value": "foot",
+      "src": "./model/stl/asset1/part7.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset1/part8.stl",
+      "color": "#dddddd"
+    }
+  ]
+}

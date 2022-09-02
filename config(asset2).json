@@ -1,0 +1,88 @@
+{
+  "status": 0,
+  "msg": "SUCCESS",
+  "menuData": [
+    {
+      "title": "foot",
+      "value": "foot",
+      "src": "./model/stl/asset2/untitledNike_shoes_000.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "foot",
+      "value": "foot",
+      "src": "./model/stl/asset2/untitledNike_shoes_001.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_002.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "eye",
+      "value": "eye",
+      "src": "./model/stl/asset2/untitledNike_shoes_003.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "face",
+      "value": "face",
+      "src": "./model/stl/asset2/untitledNike_shoes_004.stl",
+      "color": "#dddddd"
+    }
+	,
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_005.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "eye",
+      "value": "eye",
+      "src": "./model/stl/asset2/untitledNike_shoes_006.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "face",
+      "value": "face",
+      "src": "./model/stl/asset2/untitledNike_shoes_007.stl",
+      "color": "#dddddd"
+    }
+	,
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_008.stl",
+      "color": "#dddddd"
+    }
+	,
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_009.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_010.stl",
+      "color": "#dddddd"
+    }
+	,
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_011.stl",
+      "color": "#dddddd"
+    },
+    {
+      "title": "nose",
+      "value": "nose",
+      "src": "./model/stl/asset2/untitledNike_shoes_012.stl",
+      "color": "#dddddd"
+    }
+  ]
+}
